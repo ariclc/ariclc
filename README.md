@@ -1,17 +1,33 @@
-![Título Indie Colorido](data:image/svg+xml;utf8,\
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="140"> \
-  <defs> \
-    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%"> \
-      <stop offset="0%" style="stop-color:#FF0000;stop-opacity:1" /> \
-      <stop offset="20%" style="stop-color:#FF7F00;stop-opacity:1" /> \
-      <stop offset="40%" style="stop-color:#FFFF00;stop-opacity:1" /> \
-      <stop offset="60%" style="stop-color:#00FF00;stop-opacity:1" /> \
-      <stop offset="80%" style="stop-color:#0000FF;stop-opacity:1" /> \
-      <stop offset="100%" style="stop-color:#8B00FF;stop-opacity:1" /> \
-    </linearGradient> \
-  </defs> \
-  <text x="0" y="30" font-size="28" fill="url(#rainbow)" font-family="Arial, sans-serif">Clara — dev em formação</text> \
-  <text x="0" y="60" font-size="20" fill="url(#rainbow)" font-family="Arial, sans-serif">começando com Python & bots</text> \
-  <text x="0" y="85" font-size="20" fill="url(#rainbow)" font-family="Arial, sans-serif">treinando lógica + automação</text> \
-  <text x="0" y="110" font-size="20" fill="url(#rainbow)" font-family="Arial, sans-serif">crescendo com intenção</text> \
-</svg>)
+# ✧ 𝕆lá, aqui é a Clara  
+
+#**🌀 Sobre mim**  
+Estou no 3° semestre de Sistemas de Informação (IFCE) e estou mergulhando no mundo da programação com muita vontade.  
+Utilizo **Python** como minha linguagem principal.
+Estou muito entusiasmada para crescer profissionalmente e construir projetos que mostrem minha evolução.
+Ainda estou começando, mas quero muito continuar evoluindo e lapidando minhas habilidades.
+
+#**🌱 O que estou aprendendo e explorando**
+
+🐍 Python — Óbvio, minha linguagem principal no momento; uso para maioria dos meus projetos,
+    mas estou em constante aprendizado com ela, é sempre uma descoberta nova.
+
+🧠 IA Generativa — Estou testando como implementar bots, agente, RAGs. Além disso, estou
+    bastante engajada no tema, estudei bastente a parte teórica por trás e pretendo mergulhar
+    mais nessa área.
+
+🖧 Redes de Computadores — Tenho técnico em redes de computadores, e sei bastante da teoria,
+   foi onde desenvolvi meus interesses na área de TI.
+
+🧩 Ferramentas No-Code — Reecntemente fiz algumas coisas no Bubble e no Flowise, acho muito legal a falcilidade 
+    que as ferramentas No-Code entregam, sempre estou brincando com algumas.
+
+**E também estou aprendendo um pouco sobre:**
+
+🌐 Flask  
+🗂️ Banco de Dados  
+🔌 Programação Orientada a Objetos (POO)  
+📚 Paradigmas de Programação  
+🌱 Estrutura de Dados  
+🤓 Lógica e Algoritmos  
+
+💫**OBS**: No momento não tenho muitos projetos pois não tinha conta no github, mas pretendo mudar isso.
