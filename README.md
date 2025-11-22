@@ -30,4 +30,3 @@ Ainda estou começando, mas quero muito continuar evoluindo e lapidando minhas h
 🌱 Estrutura de Dados  
 🤓 Lógica e Algoritmos  
 
-💫**OBS**: No momento não tenho muitos projetos pois não tinha conta no github, mas pretendo mudar isso.
